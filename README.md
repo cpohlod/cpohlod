@@ -1,82 +1,69 @@
-# 👋 Olá, eu sou Cleverson Pohlod
+# 👋 Hi, I'm Cleverson Pohlod
 
-💻 Software Developer desde 1998  
-Java | Angular | SQL (ANSI) | Oracle | PostgreSQL
-🚀 Especialista em desenvolvimento de software e arquitetura de sistemas  
+💻 Senior Software Developer  
+🧠 Software development since 1998  
+🌎 Brazil  
 
----
-
-## 🧠 Sobre mim
-
-Sou desenvolvedor com mais de 25 anos de experiência na área de tecnologia, atuando principalmente no desenvolvimento de sistemas corporativos.
-
-Já trabalhei com diversas tecnologias ao longo da carreira, acompanhando a evolução do desenvolvimento de software.
-
-Minha trajetória passou por:
-
-- Delphi
-- Java
-- Adobe Flex
-- Desenvolvimento Web moderno
-
-Atualmente focado em:
-
-- Java
-- Angular
-- APIs REST
-- Inteligência Artificial
-- Análise de Dados
+I am a software developer with more than 25 years of experience building enterprise systems.  
+Throughout my career I have worked with multiple technologies, focusing on robust backend development, modern web applications and relational databases.
 
 ---
 
-## 🛠 Tecnologias
+## 🚀 Tech Stack
 
 ### Backend
 - Java
-- Spring Boot
 - REST APIs
+- Enterprise Systems
+- System Integration
 
 ### Frontend
 - Angular
+- TypeScript
 - HTML
 - CSS
-- TypeScript
-  
+
 ### Databases
-- Oracle Database
+- Oracle
 - PostgreSQL
-- SQL (ANSI SQL standard)
+- ANSI SQL
 - Data Modeling
 - Query Optimization
-  
-### Dados e IA
-- Python
-- Machine Learning
-- Data Analysis
 
-### Ferramentas
+### Tools
 - Git
-- Docker
 - Linux
+- Docker
+- CI/CD
 
 ---
 
-## 📊 Estatísticas GitHub
+## 🧠 Areas of Interest
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cpohlod&show_icons=true&theme=default)
-
----
-
-## 📚 Interesses atuais
-
-- Inteligência Artificial aplicada
-- Engenharia de Software
-- Arquitetura de sistemas
-- Análise de dados
+- Software Architecture
+- Enterprise Systems
+- Data Engineering
+- Artificial Intelligence
+- System Design
 
 ---
 
-## 🌎 Onde me encontrar
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cpohlod&show_icons=true)
+
+---
+
+## 🔬 Featured Topics
+
+- Java enterprise development
+- Angular applications
+- Advanced SQL and database optimization
+- System architecture and design
+
+---
+
+## 🌎 Connect with me
 
 LinkedIn  
 https://www.linkedin.com/in/cleverson-pohlod-32438716/
@@ -86,4 +73,4 @@ https://github.com/cpohlod
 
 ---
 
-⭐ Sempre aprendendo e explorando novas tecnologias.
+⭐ Always learning and exploring new technologies.
