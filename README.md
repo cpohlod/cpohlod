@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou Cleverson Pohlod
 
 💻 Software Developer desde 1998  
+Java | Angular | SQL (ANSI) | Oracle | PostgreSQL
 🚀 Especialista em desenvolvimento de software e arquitetura de sistemas  
 
 ---
