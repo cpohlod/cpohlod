@@ -115,7 +115,12 @@ The system is composed of four applications:
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cpohlod&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cpohlod&show_icons=true&theme=default&include_all_commits=true&count_private=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cpohlod&layout=compact&theme=default)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=cpohlod&theme=default)
+
 
 ---
 
