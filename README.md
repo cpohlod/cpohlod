@@ -26,6 +26,11 @@ My experience includes backend development, frontend applications, relational da
 - React
 - HTML5 and CSS3
 
+### Automation & Scripting
+- Python
+- Command-line utilities
+- Media processing automation
+
 ### Databases
 - PostgreSQL
 - Oracle
@@ -60,6 +65,10 @@ These repositories are publicly available and showcase different aspects of my d
 ### Frontend
 
 - [**App Centro de Erros**](https://github.com/cpohlod/appcentroerros) — Frontend application built with React, Redux, and Redux Saga.
+
+### Python & Automation
+
+- [**Python Toolbox**](https://github.com/cpohlod/python-toolbox) — Collection of Python command-line utilities for local media workflows, including video concatenation with animated title cards, transitions, and Full HD rendering using MoviePy.
 
 ---
 
